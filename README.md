@@ -138,7 +138,13 @@ Step 19: Login to Kali Linux
 
 # EXPECTED OUTPUT
 
+<img width="1461" height="897" alt="image" src="https://github.com/user-attachments/assets/9dc4d8cb-6e90-4be8-b885-89f41bff67ed" />
 
+<img width="1381" height="835" alt="image" src="https://github.com/user-attachments/assets/156d4019-fa92-4d22-8cd9-9f8f9f03073c" />
+
+<img width="1565" height="812" alt="image" src="https://github.com/user-attachments/assets/0ddadcf1-2dda-4606-9bf8-70f81c2d30b3" />
+
+<img width="1531" height="822" alt="image" src="https://github.com/user-attachments/assets/e0fbd37b-981e-4b7d-8c1c-fbbab5c233da" />
 
 # RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
